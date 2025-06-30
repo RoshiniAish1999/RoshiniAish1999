@@ -40,8 +40,6 @@ I'm passionate about **transforming raw data into actionable insights** through 
 - **Data Visualization**: Interactive Dashboards, Statistical Graphics, Business Intelligence
 - **Healthcare Analytics**: Medical Data Processing, Clinical Decision Support
 
-## 🚀 Featured Projects
-
 ### 🏥 Automated Rare Disease Detection (Master's Thesis)
 *Few-shot learning approach for medical imaging classification*
 - **Tech**: PyTorch, Computer Vision, Deep Learning
