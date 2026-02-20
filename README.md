@@ -1,13 +1,13 @@
 # Hi there, I'm Aishwarya Gopinath! 👋
 
 ## 🎓 About Me
-**MS Data Science Student** | Graduating August 2025 | Based in Berlin 🇩🇪
+**COMPUTER SCIENCE ENGINEER WITH MASTERS IN DATA SCIENCE** | Based in Berlin 🇩🇪
 
 I'm passionate about **transforming raw data into actionable insights** through analytical thinking, visual storytelling, and applied machine learning. With a strong foundation in Computer Science and hands-on experience in data-driven problem-solving, I love working on projects where data meets real-world impact.
 
-🔬 **Currently working on**: "Automated Detection of Rare Diseases in Medical Imaging Using Few-Shot Learning" (Master's thesis)
+🔬 **Currently working on**: "KI Telefonbot
 
-🚀 **Seeking**: Full-time Data Scientist, Data Analyst, or Visualization Engineer roles starting September 2025
+🚀 **Seeking**: Full-time Data Scientist, Data Analyst, or SOFTWARE DEVELOPER 
 
 ## 🛠️ Tech Stack
 
@@ -44,13 +44,13 @@ I'm passionate about **transforming raw data into actionable insights** through 
 *Few-shot learning approach for medical imaging classification*
 - **Tech**: PyTorch, Computer Vision, Deep Learning
 - **Impact**: Developing AI solutions for early disease detection
-- **Status**: In Progress (Completion: August 2025)
+- **Status**: Completed 
 
 ## 📈 GitHub Stats
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshiniAish1999&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 💼 What I'm Looking For
-I'm actively seeking **full-time opportunities** starting **September 2025** in:
+I'm actively seeking **full-time opportunities**  in:
 - **Data Scientist** roles focusing on ML model development
 - **Data Analyst** positions with strong visualization components  
 - **Visualization Engineer** roles creating impactful data stories
@@ -70,4 +70,4 @@ I'm actively seeking **full-time opportunities** starting **September 2025** in:
 
 
 ---
-⭐ **Open to opportunities | Available September 2025 | Based in Berlin, Germany**
+⭐ **Open to opportunities | Based in Berlin, Germany**
