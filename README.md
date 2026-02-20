@@ -65,7 +65,7 @@ I'm actively seeking **full-time opportunities**  in:
 - 🎯 Always excited to discuss the latest in ML research and applications
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aishwarya-gopinath-441848284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aishwarya-gopi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwarya.nafcel@gmail.com)
 
 
